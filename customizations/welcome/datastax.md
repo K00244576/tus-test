@@ -1,4 +1,4 @@
-### Your Enterprise Sidekick
+### TUS Chat Bot
 Generative AI is considered to bring the next Industrial Revolution as studies show a **37% efficiency boost** in day to day work activities!
 
 #### DATA = AI
